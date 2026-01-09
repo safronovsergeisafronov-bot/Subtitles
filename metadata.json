@@ -1,0 +1,5 @@
+{
+  "name": "ReelsSub AI - Bilingual Subtitle Generator",
+  "description": "An automated one-line subtitle generator for Instagram Reels, optimized for RU/FR bilingual videos with precise character and timing limits.",
+  "requestFramePermissions": []
+}
